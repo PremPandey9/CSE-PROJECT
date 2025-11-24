@@ -40,6 +40,5 @@ def sps():
 
         elif player_input == "paper":
             print("oopss!!, Computer took game")
-            print("computer choosed scissors")
-            
+            print("computer choosed scissors")  
 sps()
